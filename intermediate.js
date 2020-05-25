@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
 	cars =["Tesla", "Audi", "Renault", "Volvo", "Mazda", "Fiat", "Ferrari"];
 	cars = cars.sort();
 	//document.write(cars)
@@ -31,10 +24,3 @@
 	console.log(fruits2.join("\n"))
 	document.write("<br>")
 	document.write(fruits2.join("<br>"))
-
-
-</script>
-
-
-</body>
-</html>
